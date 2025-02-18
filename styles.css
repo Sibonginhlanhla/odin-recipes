@@ -13,5 +13,12 @@ a {
 section,
 h1 {
     text-align: center;
+    display: block;
 }
 
+.container{
+    background-color: deepskyblue;
+    padding: 50px;
+    margin: 15px auto;
+    display: block;
+}
